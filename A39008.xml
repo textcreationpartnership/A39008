@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent ballad, intituled, The wandring Prince of Troy To the tune of, Queen Dido.</title>
+            <title>Wandring Prince of Troy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39008</idno>
+            <idno type="STC">Wing E3785A</idno>
+            <idno type="STC">ESTC R213997</idno>
+            <idno type="EEBO-CITATION">99826238</idno>
+            <idno type="PROQUEST">99826238</idno>
+            <idno type="VID">30635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1822:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent ballad, intituled, The wandring Prince of Troy To the tune of, Queen Dido.</title>
+                  <title>Wandring Prince of Troy.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1662 and 1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "When Troy town for ten years wars,".</note>
+                  <note>Place of publication from and publication date conjectured by Wing.</note>
+                  <note>First published [1660?] as: A proper new ballad, intituled, the wandring Prince of Troy. Cf. Wing P3668.</note>
+                  <note>Reproduction of the original in Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:30635:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>An excellent Ballad, Intituled, The Wandring Prince of Troy.</head>
+            <opener>To the Tune of, Queen <hi>Dido.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen <hi>Troy</hi> Town for ten years Wars,</l>
+               <l>withſtood the <hi>Greeks</hi> in manful wiſe,</l>
+               <l>Then did their foes increaſe ſo faſt,</l>
+               <l>that to reſiſt none could ſuffice:</l>
+               <l>Waſt lies thoſe walls that were ſo good,</l>
+               <l>And corn now grows where <hi>Troy</hi> town ſtood.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Aeneas</hi> Wandring Prince of <hi>Troy,</hi>
+               </l>
+               <l>when he for Land long time had ſought,</l>
+               <l>At length arrived with great joy,</l>
+               <l>to mighty <hi>Carthage</hi> walls was brought,</l>
+               <l>Where <hi>Dido's</hi> Queen with ſumptuous feaſt,</l>
+               <l>Did entertain this wandring gueſt.</l>
+            </lg>
+            <lg>
+               <l>And as in Hall at meat they ſat,</l>
+               <l>the Queen deſirous news to hear,</l>
+               <l>Of thy unhappy ten years wars,</l>
+               <l>declare to me thou <hi>Trojan</hi> dear,</l>
+               <l>Thy heavy hap and chance ſo bad,</l>
+               <l>That thou poor wandring Prince haſt had.</l>
+            </lg>
+            <lg>
+               <l>And then annon this worthy Knight,</l>
+               <l>with words demure as he could well,</l>
+               <l>Of his unhappy ten years wars,</l>
+               <l>ſo true a tale began to tell;</l>
+               <l>With words ſo ſwéet, and ſighs ſo deep,</l>
+               <l>That oft he made them all to weep.</l>
+            </lg>
+            <lg>
+               <l>And then a thouſand ſighs he fetcht,</l>
+               <l>and every ſigh brought tears amain,</l>
+               <l>That where he ſat the place was wet,</l>
+               <l>as if he had ſeen thoſe wars again:</l>
+               <l>So that the Queen with truth therefore,</l>
+               <l>Said, Worthy Prince enough no more.</l>
+            </lg>
+            <lg>
+               <l>The darkſome night apace grew on,</l>
+               <l>And twinkling Stars, i'th skies were ſpread</l>
+               <l>till he his doleful tale had told,</l>
+               <l>as every one lay in his bed;</l>
+               <l>Where they full ſweetly took their reſt,</l>
+               <l>Save only <hi>Dido's</hi> boyling breaſt.</l>
+            </lg>
+            <lg>
+               <l>This ſilly woman never ſlept,</l>
+               <l>but in her Chamber all alone,</l>
+               <l>As one unhappy always kept,</l>
+               <l>unto the wall ſhe made her moan,</l>
+               <l>That ſhe ſhould ſtill deſire in vain.</l>
+               <l>The thing that ſhe could not obtain.</l>
+            </lg>
+            <lg>
+               <l>And thus in grief ſhe ſpent the night,</l>
+               <l>till twinkling ſtars from skies <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere fled,</l>
+               <l>And <hi>Phoebus</hi> with his glimering beams,</l>
+               <l>through miſty clouds appeared red:</l>
+               <l>Then tidings came to her anon</l>
+               <l>That all the <hi>Trojan</hi> ſhips were gone.</l>
+            </lg>
+            <lg>
+               <l>And then the Queen with bloody knife,</l>
+               <l>did arm her heart as hard as ſtone,</l>
+               <l>Yet ſomewhat loath to looſe her life,</l>
+               <l>in woful caſe ſhe made her moan;</l>
+               <l>And rowling on her careful bed,</l>
+               <l>With ſighs and ſobs theſe words ſhe ſaid.</l>
+            </lg>
+            <lg>
+               <l>O wretched <hi>Dido</hi> Queen quoth ſhe,</l>
+               <l>I ſée thy end approacheth near,</l>
+               <l>For he is gone away from thée,</l>
+               <l>whom thou didſt love and hold ſo dear;</l>
+               <l>Is he then gone and paſſed by?</l>
+               <l>O heare prepare thy ſelf to dye.</l>
+            </lg>
+            <lg>
+               <l>Though reaſon would thou ſhouldſt forbear,</l>
+               <l>to ſtop thy hand from bloody ſtroke,</l>
+               <l>Yet fancy ſaid thou ſhould'ſt not fear,</l>
+               <l>who fettered thee in <hi>Cupids</hi> yoke:</l>
+               <l>Come death, quoth ſhe, and end the ſmart,</l>
+               <l>And with theſe words, ſhe pierc'd her heart.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen death had pierc'd the tender heart</l>
+               <l>of <hi>Dido Carthagenian</hi> Queen,</l>
+               <l>And bloody knife did end the ſmart</l>
+               <l>which ſhe ſuſtain'd in woful teen:</l>
+               <l>
+                  <hi>Aeneas</hi> being Shipt and gone,</l>
+               <l>Whoſe flattery cauſed all her moan.</l>
+            </lg>
+            <lg>
+               <l>Her Funeral moſt coſtly made,</l>
+               <l>and all things finiſht mournfully,</l>
+               <l>Her body fine in mold was laid,</l>
+               <l>where it conſumed ſpeedily:</l>
+               <l>Her Siſters tears her tomb beſtrew'd,</l>
+               <l>Her Subjects grief their kindneſs ſhew'd.</l>
+            </lg>
+            <lg>
+               <l>Then was <hi>Aeneas</hi> in an Iſle</l>
+               <l>in <hi>Grecia,</hi> where he liv'd long ſpace,</l>
+               <l>Whereas her Siſter in short time,</l>
+               <l>writ to him to his foul diſgrace:</l>
+               <l>In phraſe of Letters to her mind,</l>
+               <l>She told him plain he was unkind.</l>
+            </lg>
+            <lg>
+               <l>Falſe-hearted wretch, quoth she, thou art,</l>
+               <l>and treacherouſly thou haſt betray'd,</l>
+               <l>Vnto thy Lure a gentle heart,</l>
+               <l>which unto thee ſuch welcome made:</l>
+               <l>My Siſter dear, and <hi>Carthage</hi> joy,</l>
+               <l>Whoſe folly wrought her dire annoy.</l>
+            </lg>
+            <lg>
+               <l>Yet on her death-bed when she lay,</l>
+               <l>she prayed for thy proſperity,</l>
+               <l>Beſeeching God that every day</l>
+               <l>might breed thee great felicity:</l>
+               <l>Thus by thy means I loſt a friend,</l>
+               <l>Heavens ſend thee ſuch untimely end.</l>
+            </lg>
+            <lg>
+               <l>When he theſe lines, full fraught with gall,</l>
+               <l>peruſed had, and weigh'd them right,</l>
+               <l>His lofty courage then did fall,</l>
+               <l>and ſtreight appeared in his ſight,</l>
+               <l>Queen <hi>Dido's</hi> Ghoſt both grim and pale,</l>
+               <l>Which made this valiant Soulder quall.</l>
+               <l>
+                  <hi>Aeneas,</hi> quoth</l>
+               <l>my whole delight while I did</l>
+               <l>Thee of all men I loved moſt,</l>
+               <l>my fancy and my will did give:</l>
+               <l>For entertainment I thee gave,</l>
+               <l>Vnthankfully thou dig'ſt my grave.</l>
+            </lg>
+            <lg>
+               <l>Therefore prepare thy fleeting ſoul</l>
+               <l>to wander with me in the air,</l>
+               <l>Where deadly grief shall make it howl,</l>
+               <l>becauſe of me thou took'ſt no care;</l>
+               <l>Delay no time, thy glaſs is run,</l>
+               <l>Thy day is paſt, thy death is come.</l>
+            </lg>
+            <lg>
+               <l>O ſtay a while thou lovely ſpright,</l>
+               <l>be not ſo ready to convey,</l>
+               <l>My ſoul into eternal night,</l>
+               <l>where it shall ne'r behold bright day:</l>
+               <l>O do not frown! thy angry look,</l>
+               <l>Hath made my breath my life forſook.</l>
+            </lg>
+            <lg>
+               <l>But wo is me, it is in vain,</l>
+               <l>and bootleſs is my diſmal cry,</l>
+               <l>Time will not be recall'd again,</l>
+               <l>nor you ſurceaſe before I dye:</l>
+               <l>O let me live to make amends,</l>
+               <l>Vnto ſome of thy deareſt friends.</l>
+            </lg>
+            <lg>
+               <l>But ſeeing thou obdurate art,</l>
+               <l>and will no pitty on me show,</l>
+               <l>Becauſe from thee I did depart,</l>
+               <l>and left unpaid what I did ow:</l>
+               <l>I muſt content my ſelf to take</l>
+               <l>what lot thou wilt with me partake.</l>
+            </lg>
+            <lg>
+               <l>And like one being in a Trance,</l>
+               <l>a multitude of ugly Fiends</l>
+               <l>About this woful Prince did dance,</l>
+               <l>no help he had of any friends:</l>
+               <l>His body then they took away,</l>
+               <l>And no man knew his dying day.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, and J. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
